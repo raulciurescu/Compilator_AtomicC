@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "constants.h": "c",
+        "delimiters.h": "c",
+        "identifiers.h": "c",
+        "keywords.h": "c"
+    }
+}

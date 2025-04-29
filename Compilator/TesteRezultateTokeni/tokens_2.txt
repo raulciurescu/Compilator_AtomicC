@@ -1,0 +1,28 @@
+
+==================== Tokeni identificati ====================
+Token[0]: void                 | Tip: 1 | Linie: 1
+Token[1]: main                 | Tip: 0 | Linie: 1
+Token[2]: (                    | Tip: 3 | Linie: 1
+Token[3]: )                    | Tip: 3 | Linie: 1
+Token[4]: {                    | Tip: 3 | Linie: 2
+Token[5]: int                  | Tip: 1 | Linie: 3
+Token[6]: x                    | Tip: 0 | Linie: 3
+Token[7]: ;                    | Tip: 3 | Linie: 3
+Token[8]: put_s                | Tip: 0 | Linie: 4
+Token[9]: (                    | Tip: 3 | Linie: 4
+Token[10]: "x="                 | Tip: 9 | Linie: 4
+Token[11]: )                    | Tip: 3 | Linie: 4
+Token[12]: ;                    | Tip: 3 | Linie: 4
+Token[13]: x                    | Tip: 0 | Linie: 5
+Token[14]: =                    | Tip: 2 | Linie: 5
+Token[15]: get_i                | Tip: 0 | Linie: 5
+Token[16]: (                    | Tip: 3 | Linie: 5
+Token[17]: )                    | Tip: 3 | Linie: 5
+Token[18]: ;                    | Tip: 3 | Linie: 5
+Token[19]: put_i                | Tip: 0 | Linie: 6
+Token[20]: (                    | Tip: 3 | Linie: 6
+Token[21]: x                    | Tip: 0 | Linie: 6
+Token[22]: )                    | Tip: 3 | Linie: 6
+Token[23]: ;                    | Tip: 3 | Linie: 6
+Token[24]: }                    | Tip: 3 | Linie: 7
+============================================================

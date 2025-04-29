@@ -1,0 +1,30 @@
+{
+  "version": "2.0.0",
+  "label": "Build COMPILATOR",
+  "type": "shell",
+  "command": "gcc",
+  "args": [
+    "-I", "inc",
+    "src/main.c",
+    "src/lexical/lexer.c",
+    "src/lexical/rules/constants.c",
+    "src/lexical/rules/delimiters.c",
+    "src/lexical/rules/identifiers.c",
+    "src/lexical/rules/keywords.c",
+    "src/lexical/rules/operators.c",
+    "src/lexical/rules/comments.c",
+    "src/syntax/parser.c",
+    "src/syntax/expressions.c",
+    "src/syntax/statements.c",
+    "src/syntax/utils.c",
+    "src/syntax/ast.c",
+    "src/syntax/functions.c",
+    "src/test.c",
+    "-o", "compilator.exe"
+  ],
+  "group": {
+    "kind": "build",
+    "isDefault": true
+  },
+  "problemMatcher": []
+}
